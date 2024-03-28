@@ -1,7 +1,7 @@
 
 struct Student{
   var name: String
-  vaaar age: Int
+  var age: Int
   var gender: Gender
 }
 
