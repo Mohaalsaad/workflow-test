@@ -1,0 +1,16 @@
+{
+  "name": "John Doe",
+  "age": 30,
+  "email": "john.doe@example.com",
+  "address": {
+    "street": "123 Main Street",
+    "city": "Anytown",
+    "country": "United States"
+  },
+  "phone_numbers": [
+    "+1234567890",
+    "+1987654321"
+  ],
+  "is_student": false,
+  "skills": ["JavaScript", "Python", "HTML", "CSS"]
+}
