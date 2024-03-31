@@ -3,7 +3,7 @@
   "age": 30,
   "email": "john.doe@example.com",
   "address": {
-    "street": "123 Main Street"
+    "street": "123 Main Street",
     "city": "Anytown",
     "country": "United States"
   },
@@ -13,4 +13,13 @@
   ],
   "is_student": false,
   "skills": ["JavaScript", "Python", "HTML", "CSS"]
+}
+
+
+
+{
+
+"Name": "Mohammed",
+"age":12
+
 }
